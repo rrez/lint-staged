@@ -1,3 +1,6 @@
+I forked this for my ExtJS projects.
+ExtJS generates package.json files with comments, which the JSON Parser doesen't like, and creates disgusting error messages.
+
 # 🚫💩 lint-staged ![GitHub Actions](https://github.com/okonet/lint-staged/workflows/CI/badge.svg) [![npm version](https://badge.fury.io/js/lint-staged.svg)](https://badge.fury.io/js/lint-staged) [![Codecov](https://codecov.io/gh/okonet/lint-staged/branch/master/graph/badge.svg)](https://codecov.io/gh/okonet/lint-staged)
 
 Run linters against staged git files and don't let :poop: slip into your code base!
